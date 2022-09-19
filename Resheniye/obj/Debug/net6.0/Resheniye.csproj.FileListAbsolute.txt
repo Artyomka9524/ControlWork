@@ -1,0 +1,15 @@
+C:\ControlWork\Resheniye\bin\Debug\net6.0\Resheniye.exe
+C:\ControlWork\Resheniye\bin\Debug\net6.0\Resheniye.deps.json
+C:\ControlWork\Resheniye\bin\Debug\net6.0\Resheniye.runtimeconfig.json
+C:\ControlWork\Resheniye\bin\Debug\net6.0\Resheniye.dll
+C:\ControlWork\Resheniye\bin\Debug\net6.0\Resheniye.pdb
+C:\ControlWork\Resheniye\obj\Debug\net6.0\Resheniye.csproj.AssemblyReference.cache
+C:\ControlWork\Resheniye\obj\Debug\net6.0\Resheniye.GeneratedMSBuildEditorConfig.editorconfig
+C:\ControlWork\Resheniye\obj\Debug\net6.0\Resheniye.AssemblyInfoInputs.cache
+C:\ControlWork\Resheniye\obj\Debug\net6.0\Resheniye.AssemblyInfo.cs
+C:\ControlWork\Resheniye\obj\Debug\net6.0\Resheniye.csproj.CoreCompileInputs.cache
+C:\ControlWork\Resheniye\obj\Debug\net6.0\Resheniye.dll
+C:\ControlWork\Resheniye\obj\Debug\net6.0\refint\Resheniye.dll
+C:\ControlWork\Resheniye\obj\Debug\net6.0\Resheniye.pdb
+C:\ControlWork\Resheniye\obj\Debug\net6.0\Resheniye.genruntimeconfig.cache
+C:\ControlWork\Resheniye\obj\Debug\net6.0\ref\Resheniye.dll
